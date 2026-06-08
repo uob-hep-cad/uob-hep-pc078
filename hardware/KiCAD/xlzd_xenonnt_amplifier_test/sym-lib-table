@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "XLZD_Amplifier_Lib") (type "KiCad") (uri "${KIPRJMOD}/XLZD_Amplifier_Lib.kicad_sym") (options "") (descr ""))
+)
