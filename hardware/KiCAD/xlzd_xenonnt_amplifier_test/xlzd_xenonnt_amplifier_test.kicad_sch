@@ -4,6 +4,14 @@
 	(generator_version "10.0")
 	(uuid "46bf9802-cc44-4ae3-9b56-83c7cfe06f18")
 	(paper "A4")
+	(title_block
+		(title "XLZD/XENONnT OD Pre-amplifier")
+		(date "2026-06-08")
+		(rev "0.1")
+		(company "University of Bristol")
+		(comment 1 "Based on circuit in J. Wulf Thesis, ")
+		(comment 2 "Direct Dark Matter Search with XENON1T and Developments for Multi-Ton Liquid Xenon Detectors")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:OPA847xDBV"
 			(pin_names
