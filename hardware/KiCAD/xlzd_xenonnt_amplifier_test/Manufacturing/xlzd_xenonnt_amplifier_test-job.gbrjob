@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.1"
     },
-    "CreationDate": "2026-06-08T13:26:15+01:00"
+    "CreationDate": "2026-06-08T14:05:50+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -99,6 +99,16 @@
     {
       "Path": "xlzd_xenonnt_amplifier_test-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "xlzd_xenonnt_amplifier_test-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "xlzd_xenonnt_amplifier_test-B_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
   ],
