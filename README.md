@@ -4,6 +4,6 @@ XLZD OD preamplifier based on XENONnT design
 
 Based on circuit in J. Wulf, Direct Dark Matter Search with XENON1T and Developments for Multi-Ton Liquid Xenon Detectors
 
-[Circuit Schematic](./hardware/KiCAD/xlzd_xenonnt_amplifier_test_schematic_8jun26_01.pdf)
+[Circuit Schematic](./hardware/KiCAD/xlzd_xenonnt_amplifier_test/xlzd_xenonnt_amplifier_test_schematic_8jun26_01.pdf)
 
-[3D render of PCB](./hardware/KiCAD/xlzd_xenonnt_amplifier_test_3d_render.png)
+[3D render of PCB](./hardware/KiCAD/xlzd_xenonnt_amplifier_test/xlzd_xenonnt_amplifier_test_3d_render.png)
